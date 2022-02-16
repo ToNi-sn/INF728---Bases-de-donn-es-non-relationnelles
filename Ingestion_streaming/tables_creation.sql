@@ -13,7 +13,7 @@ CREATE TABLE nb_articles_events
 );
 
 
-create table countries_events
+CREATE TABLE countries_events
 (
     "globaleventid"         int,
 		"day"                     int,
@@ -25,7 +25,7 @@ create table countries_events
 );
 
 
-create table data_source
+CREATE TABLE data_source
 (
     "day"       int,
 		"month"     int,
